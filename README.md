@@ -1,4 +1,7 @@
-### Hi there 👋
+# Ola! Meu nome é Pedro Felipe ✌🏻👨🏻‍💻
+
+
+![alt text](https://github.com/DevPedroFelipe/DevPedroFelipe/blob/main/devRoutine.png)
 
 <!--
 **DevPedroFelipe/DevPedroFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
