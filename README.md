@@ -1,4 +1,4 @@
-# Olá! <img src="https://github.com/DevPedroFelipe/DevPedroFelipe/blob/main/alien.gif" width="40px"> Meu nome é Pedro Felipe.
+# Olá! <img src="https://github.com/DevPedroFelipe/DevPedroFelipe/blob/main/hi.gif" width="40px"> Meu nome é Pedro Felipe.
 
 ### Seja Bem Vindo(a) ao meu Perfil no GitHub!
 
