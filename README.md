@@ -1,13 +1,14 @@
-# Ola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Meu nome é Pedro Felipe.
+# Olá! <img src="https://github.com/DevPedroFelipe/DevPedroFelipe/blob/main/alien.gif" width="40px"> Meu nome é Pedro Felipe.
 
 ### Seja Bem Vindo(a) ao meu Perfil no GitHub!
-
 
 [![DevPedroFelipe github stats](https://github-readme-stats.vercel.app/api?username=DevPedroFelipe&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/DevPedroFelipe)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedroFelipe&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/DevPedroFelipe)
 
-![DevPedroFelipe visitors](https://api.visitorbadge.io/api/VisitorHit?user=DevPedroFelipe&repo=github-visitors-badge&countColor=%2320232a) <h3>Obrigado pela visita!</h3>
+![DevPedroFelipe visitors](https://api.visitorbadge.io/api/VisitorHit?user=DevPedroFelipe&repo=github-visitors-badge&countColor=%2320232a)
+
+<img src="https://github.com/DevPedroFelipe/DevPedroFelipe/blob/main/wall-e.gif" width="300px">
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/DevPedroFelipe" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
