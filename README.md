@@ -8,8 +8,6 @@
 
 ![DevPedroFelipe visitors](https://api.visitorbadge.io/api/VisitorHit?user=DevPedroFelipe&repo=github-visitors-badge&countColor=%2320232a)
 
-<img src="https://github.com/DevPedroFelipe/DevPedroFelipe/blob/main/wall-e.gif" width="300px">
-
 <div style="display: inline_block"><br>
   <a href="https://github.com/DevPedroFelipe" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-felipe-889a761a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
